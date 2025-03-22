@@ -1,0 +1,35 @@
+- .gitignore
+- README.md
+- index.html
+- package-lock.json
+- package.json
+- public
+  - tauri.svg
+  - vite.svg
+- src
+  - App.css
+  - App.tsx
+  - assets
+    - react.svg
+  - main.tsx
+  - vite-env.d.ts
+- src-tauri
+  - .gitignore
+  - Cargo.lock
+  - Cargo.toml
+  - build.rs
+  - capabilities
+    - default.json
+  - gen
+    - schemas
+      - acl-manifests.json
+      - capabilities.json
+      - desktop-schema.json
+      - macOS-schema.json
+  - src
+    - lib.rs
+    - main.rs
+- tauri.conf.json
+- tsconfig.json
+- tsconfig.node.json
+- vite.config.ts
