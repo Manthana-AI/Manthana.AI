@@ -14,7 +14,7 @@ Manthana AI is a powerful document analysis tool that combines the capabilities 
 - Smart Chunking: Advanced document segmentation for optimal knowledge retrieval.
 - Intuitive Interface: Clean, modern UI inspired by the cosmic churning theme.
 - Real-time Processing: See the churning process as your documents are analyzed.
-- Flexible File Support: Supports **PDF, DOCX, and TXT files.
+- Flexible File Support: Supports PDF, DOCX, and TXT files.
 
 ## Core Components
 
