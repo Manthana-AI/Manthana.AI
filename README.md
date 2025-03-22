@@ -38,24 +38,32 @@ The Amrita component, named after the nectar of immortality, delivers:
 
 ## Installation
 
+### Cloning the Repository
+```sh
+git clone https://github.com/Manthana-AI/Manthana.AI.git
+cd Manthana.AI
+```
+
 ### Prerequisites
-1. Ollama Executable: The **Ollama executable file should be placed in src-tauri/binaries/.
-2. Required Models: Ensure you have the necessary models stored in src-tauri/binaries/ollama/models.
-3. Install dependencies:
-   sh
+1. **Ollama Executable**: The **Ollama** executable file should be placed in `src-tauri/binaries/`.
+2. **Required Models**: Ensure you have the necessary models stored in `src-tauri/binaries/ollama/models`.
+3. **Install dependencies**:
+   ```sh
    npm install
    cargo build
-   
+   ```
 
 ### Running Manthana AI
 To start the application, run:
-sh
+```sh
 npm run tauri dev
-
+```
 
 To build a release version:
-sh
+```sh
 npm run tauri build
+```
+
 
 
 ## License
